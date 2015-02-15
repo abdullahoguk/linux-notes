@@ -6,18 +6,16 @@
 * Follow normal process
 * In Installation type select 'Something Else' if you don't want to delete all HDD.
 * Select unallocated space and click '+'  
-	```
-	Size: 15GB or 20GB   
-	Type: Primary   
-	Use as: Ext4 journaling file system   
-	Mount point: /   
-	```
+	`Size: 15GB or 20GB`   
+	`Type: Primary`   
+	`Use as: Ext4 journaling file system`      
+	`Mount point: /`   
+	
 * Select unallocated space and click '+'  
-	```
-	Size: [Size of RAM you are using]   
-	Type: Primary   
-	Use as: Swap Area   
-	```
+	`Size: [Size of RAM you are using]`   
+	`Type: Primary`   
+	`Use as: Swap Area`   
+	
 * Select unallocated space and click '+'  
 	`Size:[All left space]`   
 	`Type: Primary`   
