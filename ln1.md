@@ -19,12 +19,11 @@
 	Use as: Swap Area   
 	```
 * Select unallocated space and click '+'  
-	```
-	Size:[All left space]   
-	Type: Primary   
-	Use as: Ext4 journaling file system   
-	Mount point: home   
-	```
+	`Size:[All left space]`   
+	`Type: Primary`   
+	`Use as: Ext4 journaling file system`      
+	`Mount point: home`      
+	
 * Device for boot loader installation;if you have  only one HDD on your PC left as it is. If you ve more than one, select one where previous/current boot loader in.
 * Continue to installation
 #After-Installation
