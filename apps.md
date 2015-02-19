@@ -30,7 +30,8 @@ Brackets
 Code::Blocks   
 Eclipse   
 Glade   
-gitg   
+gitg
+Git Eye   
 Google Web Designer   
 Python   
 Qt 4 Designer   
