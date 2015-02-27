@@ -33,5 +33,5 @@ TODO installation of bumblebee
 ```
 * Install restricted extras(Ubuntu)
 * Install Java and JDK
-* [Apps I am using](https://github.com/abdullahoguk/linux-notes/blob/master/apps.md) >>> apps.md
-* [Command line basics](cli1.md)
+* [Apps I am using](https://github.com/abdullahoguk/linux-notes/blob/master/apps.md)
+* [Command line basics](https://github.com/abdullahoguk/linux-notes/blob/master/cli1.md)
