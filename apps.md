@@ -1,7 +1,7 @@
 #Apps I am Using
 
 #Accessories   
-blueman   
+Blueman   
 clipman   
 conky all   
 conky manager   
@@ -61,10 +61,12 @@ Filezilla
 elinks   
 Google Earth   
 Hotot qt   
+Liferea    
 Pidgin   
 qBittorent   
 Reaver   
-Skype   
+Skype
+Sputnik       
 Teamviewer   
 Thunderbird   
 Turpial   
