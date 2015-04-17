@@ -32,6 +32,7 @@ Eclipse
 Glade   
 gitg
 Git Eye   
+Haroopad
 Google Web Designer   
 Python   
 Qt 4 Designer   
@@ -46,7 +47,9 @@ E-book Viewer
 font manager   
 GIMP   
 Image viewer   
-Inkscape   
+Inkscape
+Krita   
+Mypaint
 LFR viewer   
 Shotwell Photo Manager   
 Simple Scan   
@@ -77,7 +80,8 @@ wireshark
    
 #Multimedia   
 Atraci   
-Audacity   
+Audacity 
+Anoise  
 Banshee   
 Brasero Disc Burner   
 Cheese Webcam Booth   
@@ -109,8 +113,7 @@ Focus Writer
 GoldenDict   
 KeepNote   
 Libre office   
-Nitro   
-mdCharm   
+Nitro      
 RedNotebook   
    
 #Other   
