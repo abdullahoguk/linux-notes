@@ -122,3 +122,4 @@ playonlinux
 Steam   
 Dukto   
 Laptop Mode tools   
+Htop
